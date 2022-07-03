@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+
+  text-align: justify;
+  margin-left: 400px;
+}
+h2 {
+  color: aqua;
+  text-align: justify;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+.title {
+  text-align: center;
+  color: greenyellow;
+  font-weight: 900;
+}
